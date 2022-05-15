@@ -51,14 +51,7 @@
 
   <br><br>
 
-  <h2> 📈 GitHub Activity Graph: </h2>
-
-  ![Anton's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Vitkanda&hide_border=true&theme=redical)
-
-  <br><br>
-
-  <!-- ![Andrey's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitkanda&theme=radical) -->
-
+  
   <br><br>
 
   ![Andrey's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Vitkanda&theme=radical)
