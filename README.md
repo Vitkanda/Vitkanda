@@ -23,8 +23,8 @@ SSR-приложение для бронирования услуг массаж
 🔹 <strong><a href="https://github.com/Vitkanda/meTime_front">MeTime</a></strong><br>
 Frontend приложения с личным пространством пользователя и системой записи<br><br>
 
-🔹 <strong><a href="https://github.com/Vitkanda/film_api">Film API</a></strong><br>
-Бэкенд с REST API на Express + PostgreSQL для базы фильмов<br>
+🔹 <strong><a href="https://github.com/Vitkanda/ai-assistant-phb">AI Assistant PHB</a></strong><br>
+Консольный AI-ассистент на базе GigaChat и LangChain, работающий с документацией в .docx<br>
 
 </div>
 
