@@ -1,78 +1,77 @@
-<h2 align="center">Hi there!🤘</h2>
+<h2 align="center">Hi there! 🤘</h2>
 <p align="center">
-  <samp>My name is Andrey, I'm from Moscow! <br> <br> I am a Fullstack JavaScript developer. 😎
+  <samp>My name is Andrey, I'm a Frontend Developer from Moscow. <br><br>
+  I specialize in building scalable web applications with React, TypeScript and Next.js. ⚛️
   </samp>
-  <br> <br>
 </p>
 
-<h2 align="center">My projects 👨‍💻</h2>
+---
 
-<div align="center">
-  
-**[MeTime](https://github.com/Vitkanda/meTime_front)**
-  <br>
-  <br>
-**[Film API](https://github.com/Vitkanda/film_api)**
-  
-</div>
- <br> <br>
-
-<h2 align="center">💬 Reach me on</h2>
-
-<br><br>
-
-<p align="center" align='right'>
-  <a target="_blank" href="mailto:vitkanda@gmail.com"><img
-    src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://t.me/vitandal"><img
-    src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram"/></a>&nbsp;&nbsp;&nbsp;
-</p>
-
-<h2 align="center">My skills</h2>
-
-<br><br>
+<h2 align="center">🚀 My Projects</h2>
 
 <div align="center">
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-  ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7749BD)
-  ![ReactRouter](https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router)
-  ![Html](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
-  ![Css](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap)
-  ![Node](https://img.shields.io/badge/node-20232A?style=for-the-badge&logo=node.js)
-  ![Express](https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express)
-  ![PostgreSQL](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql)
-  ![Sequelize](https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=Sequelize)
-  ![Postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman)
-  ![Jest](https://img.shields.io/badge/jest-20232A?style=for-the-badge&logo=jest&logoColor=99424F)
-  ![Eslint](https://img.shields.io/badge/eslint-20232A?style=for-the-badge&logo=eslint&logoColor=7C7CEA)
-  ![Prettier](https://img.shields.io/badge/prettier-20232A?style=for-the-badge&logo=prettier)
-  ![Git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)
-  ![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
-  ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
+🔹 <strong><a href="https://github.com/Vitkanda/pool_agr">Pool Aggregator</a></strong><br>
+MVP-платформа для агрегации детских бассейнов — фронт + бэк + PostgreSQL + Docker<br><br>
+
+🔹 <strong><a href="https://github.com/Vitkanda/ptashkaProject">Massage Now</a></strong><br>
+SSR-приложение для бронирования услуг массажа с адаптивным UI и кастомными компонентами<br><br>
+
+🔹 <strong><a href="https://github.com/Vitkanda/express-shina-test">Express Shina Test</a></strong><br>
+Карта с пунктами самовывоза — тестовое задание с Webpack, React, Яндекс.Картами<br><br>
+
+🔹 <strong><a href="https://github.com/Vitkanda/meTime_front">MeTime</a></strong><br>
+Frontend приложения с личным пространством пользователя и системой записи<br><br>
+
+🔹 <strong><a href="https://github.com/Vitkanda/film_api">Film API</a></strong><br>
+Бэкенд с REST API на Express + PostgreSQL для базы фильмов<br>
 
 </div>
 
+---
+
+<h2 align="center">💬 Reach me</h2>
+
+<p align="center">
+  <a href="mailto:vitkanda@gmail.com"><img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://t.me/vitandal"><img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" /></a>
+</p>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
 <div align="center">
 
-  <br><br>
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux)
+![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css)
+![Radix UI](https://img.shields.io/badge/Radix_UI-20232A?style=for-the-badge)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-20232A?style=for-the-badge)
+![Zod](https://img.shields.io/badge/Zod-20232A?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker)
+![Jest](https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest)
+![ESLint](https://img.shields.io/badge/ESLint-20232A?style=for-the-badge&logo=eslint)
+![Prettier](https://img.shields.io/badge/Prettier-20232A?style=for-the-badge&logo=prettier)
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github)
 
-  
-  <br><br>
+</div>
 
-  ![Andrey's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Vitkanda&theme=radical)
+---
 
-  <br><br>
+<div align="center">
 
-  ![Andrey's github
-  stats](https://github-readme-stats.vercel.app/api?username=Vitkanda&show_icons=true&theme=radical&include_all_commits=true)
-
-  <br><br>
-
-  <br> <br>
-
-  ![](https://visitor-badge.glitch.me/badge?page_id=Vitkanda)
+![Andrey's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vitkanda&theme=radical)
+<br><br>
+![Andrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vitkanda&show_icons=true&theme=radical&include_all_commits=true)
+<br><br>
+![](https://visitor-badge.glitch.me/badge?page_id=Vitkanda)
 
 </div>
